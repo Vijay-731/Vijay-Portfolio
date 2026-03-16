@@ -107,5 +107,5 @@ If you’d like to talk about *data projects, internships, or analytics roles*, 
 >## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vijay-731/Vijay-731/refs/heads/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/nagvanshi781-pixel/nagavanshi781-pixel/refs/heads/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
