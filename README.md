@@ -1,7 +1,7 @@
-# nagvanshi781-pixel
+# Vijay-Portfolio
 
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Prince Soni 👋</h1>
+<h1 align="center">Hi, I'm Vijay Rathor 👋</h1>
 
 <p align="center">
   <b>Aspiring Data Analyst</b> • Python • SQL • Power BI • Storytelling with data
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/prince-soni-398b6a225">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:nagvanshi781@gmail.com">
+  <a href="mailto:sranvijay731@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -84,16 +84,16 @@ Repository: **[Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](http
 
 ## 📂 Quick Navigation
 
-- 📁 [Customer Behavior Analysis Project](https://github.com/nagvanshi781-pixel/Customer-Behavior-Analysis-using-python-power-BI-postgreSQL)
-- 📁 [Other Repositories](https://github.com/nagvanshi781-pixel?tab=repositories)
-- 🧾 [View My GitHub Profile](https://github.com/nagvanshi781-pixel)
+- 📁 [Customer Behavior Analysis Project](https://github.com/Vijay-731/Customer-Behavior-Analysis-using-python-power-BI-postgreSQL)
+- 📁 [Other Repositories](https://github.com/Vijay-731?tab=repositories)
+- 🧾 [View My GitHub Profile](https://github.com/Vijay-731)
 
 ---
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nagvanshi781-pixel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Vijay-731&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nagvanshi781-pixel&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vijay-731&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🤝 Let’s Connect
@@ -101,11 +101,11 @@ Repository: **[Customer-Behavior-Analysis-using-python-power-BI-postgreSQL](http
 If you’d like to talk about *data projects, internships, or analytics roles*, feel free to reach out:
 
 - 📧 Email: *nagvanshi781@gmail.com*  
-- 🔗 LinkedIn: **[Prince Soni](https://www.linkedin.com/in/prince-soni-398b6a225)**  
+- 🔗 LinkedIn: **[Vijay_Rathor](https://www.linkedin.com/in/prince-soni-398b6a225)**  
 
 > “Data may look messy at first, but there is always a story hiding inside it.” 📚✨
 >## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nagvanshi781-pixel/nagavanshi781-pixel/refs/heads/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Vijay-731/Vijay-731/refs/heads/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
